@@ -14,7 +14,7 @@
 # on GitHub Pages it is your github repository's name prefixed with a /
 #baseurl: /collectionbuilder-gh 
 # location of code, the full url to your github repository
-source-code: https://mereahm.github.io/southernmusiclaborhistory/
+source-code:https://mereahm.github.io/southernmusiclaborhistory/
 
 ##########
 # SITE SETTINGS
@@ -62,7 +62,7 @@ noindex: true
 # (this is done automatically by gh-pages build)
 #
 # dev mode turns on ability to change metadata
-development-mode: true
+# development-mode: true
 # ignore stuff
 exclude: [docs/, Rakefile, README.md, LICENSE]
 # compress CSS output
