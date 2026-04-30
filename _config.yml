@@ -37,7 +37,7 @@ author: mereahm
 # e.g. relative path "C:\Users\mla00033\Downloads\smlhdata.csv""
 # e.g. published google sheet "https://docs.google.com/spreadsheets/d/e/2PACX-1vR-Qa7ApoAWvHhikwjmqvb7YG0SYE2bZ_hci8XFOVMUSb2rGuk6KjzOe1TB-eRPvyAeyVZ0JrghpV7j/pub?output=csv"
 # e.g. on GitHub use the raw link "https://raw.githubusercontent.com/CollectionBuilder/collectionbuilder-sample-data/main/psychiana_cbdemo_gh.csv"
-metadata-csv: smlhdata 
+metadata-csv: smlhdata  
 
 ##########
 # Site/Organization Branding 
@@ -52,7 +52,7 @@ metadata-csv: smlhdata
 # ROBOTS EXCLUDE
 #
 # set noindex to true if you do NOT want Google to index your site
-# noindex: true 
+noindex: true 
 
 ##########
 # BUILD SETTINGS 
@@ -67,4 +67,4 @@ metadata-csv: smlhdata
 exclude: [docs/, Rakefile, README.md, LICENSE]
 # compress CSS output
 sass:
-  style: compressed
+style: compressed
