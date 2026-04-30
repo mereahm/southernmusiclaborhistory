@@ -34,9 +34,6 @@ author: mereahm
 #
 # Set the metadata for your collection 
 # This will be the full URL to your CSV file or relative path + filename of CSV in this repository 
-# e.g. relative path "C:\Users\mla00033\Downloads\smlhdata.csv""
-# e.g. published google sheet "https://docs.google.com/spreadsheets/d/e/2PACX-1vR-Qa7ApoAWvHhikwjmqvb7YG0SYE2bZ_hci8XFOVMUSb2rGuk6KjzOe1TB-eRPvyAeyVZ0JrghpV7j/pub?output=csv"
-# e.g. on GitHub use the raw link "https://raw.githubusercontent.com/CollectionBuilder/collectionbuilder-sample-data/main/psychiana_cbdemo_gh.csv"
 metadata-csv: smlhdata  
 
 ##########
